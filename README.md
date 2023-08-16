@@ -1,6 +1,6 @@
 <div>
 <h1>Hey, thank you for visiting my repository!!</h1>
-  <p>Besides Portuguese, i'm also an English speaker! I've lived in the United States during 2016 from January until June, in Maryville/MO, attending to Maryville High School during a full semester.</p>
+  <p>Feel free to visit and check out all my repositories! You may send me a message if you want to! Contact me on Linkedin. I speak both Portuguese and English. See ya.</p>
 <img align="center" width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=felipealvesdev&show_icons=true&locale=en" alt="felipealvesdev" />
 <img align="center" width="350" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipealvesdev&show_icons=true&locale=en&layout=compact" alt="felipealvesdev" />
 <p align="left">
